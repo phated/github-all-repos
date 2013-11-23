@@ -1,0 +1,27 @@
+{
+  "name": "github-all-repos",
+  "version": "0.0.0",
+  "description": "Get all GitHub repos for a given access token or user",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/phated/github-all-repos"
+  },
+  "keywords": [
+    "github",
+    "repos"
+  ],
+  "author": "Blaine Bublitz <blaine@iceddev.com> (http://iceddev.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phated/github-all-repos/issues"
+  },
+  "dependencies": {
+    "github-api": "https://github.com/michael/github/archive/v0.9.0.tar.gz",
+    "when": "~2.6.0"
+  },
+  "devDependencies": {}
+}
