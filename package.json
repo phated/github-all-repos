@@ -1,7 +1,7 @@
 {
   "name": "github-all-repos",
   "version": "0.1.0",
-  "description": "Get all GitHub repos for a given access token or user",
+  "description": "Because fetching all repos for a Github user is a pain",
   "main": "index.js",
   "scripts": {
     "test": "tap ./test"
