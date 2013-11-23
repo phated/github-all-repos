@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/phated/github-all-repos.png?branch=master)](https://travis-ci.org/phated/github-all-repos)
+
 github-all-repos
 ================
 
