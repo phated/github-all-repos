@@ -1,6 +1,6 @@
 {
   "name": "github-all-repos",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Get all GitHub repos for a given access token or user",
   "main": "index.js",
   "scripts": {
